@@ -6,3 +6,5 @@ Step 1: Create and Navigate to Directory
 mkdir nexus-cli
 
 cd nexus-cli
+
+gh repo clone stephenahmeed/nexus2
